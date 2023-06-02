@@ -1,5 +1,5 @@
 # Song-Player
-A useless song player. And also it's complicated to set it up.
+A useless song player. Also complicated to set it up.
 
 
-So uhh
+So uhh yeah....
